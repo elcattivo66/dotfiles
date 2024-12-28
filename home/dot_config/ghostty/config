@@ -1,0 +1,16 @@
+auto-update = download
+auto-update-channel = stable
+clipboard-trim-trailing-spaces = true
+font-family = Monaspace Neon
+font-family-bold = Monaspace Neon Bold
+font-family-italic = Monaspace Neon Italic
+font-family-bold-italic = Monaspace Neon Bold Italic
+font-size = 12
+macos-titlebar-style = tabs
+macos-auto-secure-input = true
+macos-secure-input-indication = true
+quit-after-last-window-closed = true
+shell-integration = detect
+theme = catppuccin-mocha
+window-height = 45
+window-width = 180

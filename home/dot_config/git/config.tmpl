@@ -1,0 +1,16 @@
+[core]
+	autocrlf = input
+[init]
+	defaultBranch = main
+[pull]
+	rebase = true
+[rebase]
+	autoStash = true
+[user]
+	name = {{ .personal.full_name }}
+	email = {{ .personal.email }}
+  signingKey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEOPBEcMeCeXe89KwvtKkfjAy1u6ni065jMxOQ4dBR6B
+[commit]
+	gpgsign = true
+[tag]
+	gpgSign = true
