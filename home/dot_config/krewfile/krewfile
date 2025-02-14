@@ -1,7 +1,6 @@
 index netshoot https://github.com/nilic/kubectl-netshoot.git
 
 browse-pvc
-df-pv
 neat
 netshoot/netshoot
 pv-migrate
