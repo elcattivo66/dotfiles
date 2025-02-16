@@ -1,8 +1,0 @@
-index netshoot https://github.com/nilic/kubectl-netshoot.git
-
-browse-pvc
-neat
-netshoot/netshoot
-pv-migrate
-rook-ceph
-view-secret
