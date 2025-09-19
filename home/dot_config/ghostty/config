@@ -1,16 +1,26 @@
-auto-update = download
-auto-update-channel = stable
-clipboard-trim-trailing-spaces = true
+# Theme config
+theme = catppuccin-mocha.conf
+
+# Fonts
 font-family = MonaspiceNe Nerd Font Mono
 font-family-bold = MonaspiceNe Nerd Font Mono Bold
 font-family-italic = MonaspiceNe Nerd Font Mono Italic
 font-family-bold-italic = MonaspiceNe Nerd Font Mono Bold Italic
 font-size = 12
+font-thicken = true
+
+# Application settings
+auto-update = download
+auto-update-channel = stable
+clipboard-trim-trailing-spaces = true
+shell-integration = detect
+
+# macOS specific
 macos-titlebar-style = tabs
 macos-auto-secure-input = true
 macos-secure-input-indication = true
 quit-after-last-window-closed = true
-shell-integration = detect
-theme = catppuccin-mocha
+
+# Window settings
 window-height = 30
 window-width = 125
